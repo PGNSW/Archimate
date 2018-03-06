@@ -26,12 +26,64 @@
         xsi:type="canvas:CanvasModelSticky"
         id="702eb33e-1f06-4820-bf54-ff047cb93ee9"
         fillColor="#c6f9f7"
-        content="Community venues"
+        content="Fed. Gov"
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
           x="12"
           y="48"
+          width="97"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="0566d424-423d-4d66-8989-826416b6f352"
+        fillColor="#c6f9f7"
+        content="State Gov&#xD;&#xA;"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="12"
+          y="132"
+          width="97"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="e7ede2fe-9f02-4270-a6ac-13e8b9bdbcb4"
+        fillColor="#c6f9f7"
+        content="Corp. Sponsorship&#xD;&#xA;"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="12"
+          y="204"
+          width="97"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="06d3cb45-7921-4274-9566-2e461308988b"
+        fillColor="#c6f9f7"
+        content="Research Institution&#xD;&#xA;"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="12"
+          y="288"
+          width="97"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="4893f889-0edd-4794-96c3-46b1a36414f5"
+        fillColor="#c6f9f7"
+        content="Expert advisory&#xD;&#xA;"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="12"
+          y="372"
           width="97"
           height="63"/>
     </children>
@@ -99,7 +151,7 @@
         xsi:type="canvas:CanvasModelSticky"
         id="9b5ed1f6-1d83-4326-a564-ac1b8e6db3a0"
         fillColor="#c6f9f7"
-        content="Facilitors"
+        content="Facilitor"
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
@@ -126,12 +178,52 @@
         id="d9fd2ea3-96c2-4173-9e6a-a99c6dc95006"
         fillColor="#eec8fb"
         content="Assets"
+        notes="KL - Talk to Tracey, does the toys belong to PGNSW? or individual playgroup ? "
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
           x="12"
           y="216"
           width="98"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="aed065fb-7533-4594-a36d-aaf987aebbff"
+        fillColor="#ffa093"
+        content="Pro bono Services"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="132"
+          y="48"
+          width="85"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="e3da392b-3d06-4bb7-a37f-21af95c6c391"
+        fillColor="#c6f9f7"
+        content="Volunteer"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="132"
+          y="132"
+          width="85"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="2e5e989a-b108-43ef-87eb-cf1b93080944"
+        fillColor="#eec8fb"
+        content="Customer Analytics"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="132"
+          y="216"
+          width="85"
           height="63"/>
     </children>
   </children>
@@ -168,7 +260,7 @@
         xsi:type="canvas:CanvasModelSticky"
         id="da9b20d3-34b4-4de4-9a9a-e3d968547fc9"
         fillColor="#ffff95"
-        content="Kids social skilling"
+        content="Kids skilling"
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
@@ -254,7 +346,7 @@
         xsi:type="canvas:CanvasModelSticky"
         id="e3d28d3c-d855-47e2-988a-b0e98510594c"
         fillColor="#d5ff95"
-        content="Email"
+        content="NewsLetter/E letter"
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
@@ -279,7 +371,7 @@
     <children
         xsi:type="canvas:CanvasModelSticky"
         id="9910cd58-3a43-49ca-a133-59a4d905bba5"
-        fillColor="#d5ff95"
+        fillColor="#ff0000"
         content="Mobile App"
         borderColor="#C0C0C0"
         textPosition="1">
@@ -336,7 +428,8 @@
         xsi:type="canvas:CanvasModelSticky"
         id="7b482ed5-7689-4458-8200-abc005395fce"
         fillColor="#d5ff95"
-        content="Parent couple"
+        content="Parent"
+        notes="Type of Parents:&#xD;&#xA;Full time employed&#xD;&#xA;Part time employed&#xD;&#xA;First time parents&#xD;&#xA;&#xD;&#xA;some partents are also vlunteer"
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
@@ -349,64 +442,12 @@
         xsi:type="canvas:CanvasModelSticky"
         id="1365f551-027d-4534-aa73-5bac3b253360"
         fillColor="#d5ff95"
-        content="Single parent"
+        content="Career"
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
           x="120"
           y="60"
-          width="94"
-          height="63"/>
-    </children>
-    <children
-        xsi:type="canvas:CanvasModelSticky"
-        id="11c585c2-1ae0-43c0-b2fd-a7177ce112ca"
-        fillColor="#d5ff95"
-        content="New parent"
-        borderColor="#C0C0C0"
-        textPosition="1">
-      <bounds
-          x="12"
-          y="144"
-          width="94"
-          height="63"/>
-    </children>
-    <children
-        xsi:type="canvas:CanvasModelSticky"
-        id="25c34562-fdaa-41be-bfeb-c4d616c9f791"
-        fillColor="#d5ff95"
-        content="Full time employed"
-        borderColor="#C0C0C0"
-        textPosition="1">
-      <bounds
-          x="12"
-          y="228"
-          width="94"
-          height="63"/>
-    </children>
-    <children
-        xsi:type="canvas:CanvasModelSticky"
-        id="aaab545f-1377-4f8e-9909-a5b6dda63177"
-        fillColor="#d5ff95"
-        content="Part time employed"
-        borderColor="#C0C0C0"
-        textPosition="1">
-      <bounds
-          x="120"
-          y="228"
-          width="94"
-          height="63"/>
-    </children>
-    <children
-        xsi:type="canvas:CanvasModelSticky"
-        id="2509f6a9-9cbc-4ace-9dc7-804f62c97c7a"
-        fillColor="#d5ff95"
-        content="Established parent"
-        borderColor="#C0C0C0"
-        textPosition="1">
-      <bounds
-          x="120"
-          y="144"
           width="94"
           height="63"/>
     </children>
@@ -471,5 +512,71 @@
         y="588"
         width="572"
         height="181"/>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="25e238e9-072f-44d3-a3dd-3aea88001bef"
+        fillColor="#ffa093"
+        content="Donation"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="49"
+          y="28"
+          width="75"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="30c52acb-9845-44e0-a8fc-da0ed2a40cd9"
+        fillColor="#ffa093"
+        content="Gov. Funding"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="156"
+          y="28"
+          width="75"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="8ea21236-1c41-4e2a-b83a-343976803f67"
+        fillColor="#ffa093"
+        content="Membership"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="264"
+          y="28"
+          width="75"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="96373572-3780-462b-a9dd-f3e1b1e249ad"
+        fillColor="#ffa093"
+        content="philanthropic"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="372"
+          y="28"
+          width="75"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="6578af26-e47d-4594-9f9c-61f0e0a1a826"
+        fillColor="#ffa093"
+        content="In Kind ? "
+        notes="time, goods &amp; services&#xD;&#xA;&#xD;&#xA;KL - ask Tracey how this is treated"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="49"
+          y="108"
+          width="75"
+          height="63"/>
+    </children>
   </children>
 </canvas:CanvasModel>

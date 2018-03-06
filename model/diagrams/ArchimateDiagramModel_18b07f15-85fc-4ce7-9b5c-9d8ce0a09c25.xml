@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Business Process Cooperation"
     id="18b07f15-85fc-4ce7-9b5c-9d8ce0a09c25"
-    viewpoint="business_process_cooperation">
+    viewpoint="goal_realization">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="844cded5-183e-4ec6-ac81-cfc4a2a108cb">
