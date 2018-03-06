@@ -22,6 +22,19 @@
         y="12"
         width="229"
         height="577"/>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="702eb33e-1f06-4820-bf54-ff047cb93ee9"
+        fillColor="#c6f9f7"
+        content="Community venues"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="12"
+          y="48"
+          width="97"
+          height="63"/>
+    </children>
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
@@ -39,6 +52,32 @@
         y="12"
         width="229"
         height="289"/>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="7f5985d0-68c1-41d1-84fb-ca952ccce155"
+        fillColor="#c6f9f7"
+        content="Establish PG"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="12"
+          y="48"
+          width="97"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="688c7a40-5111-40c3-b68f-9e432a5d38a0"
+        fillColor="#c6f9f7"
+        content="Establish PG location"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="120"
+          y="48"
+          width="99"
+          height="63"/>
+    </children>
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
@@ -56,6 +95,45 @@
         y="300"
         width="229"
         height="289"/>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="9b5ed1f6-1d83-4326-a564-ac1b8e6db3a0"
+        fillColor="#c6f9f7"
+        content="Facilitors"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="12"
+          y="48"
+          width="98"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="5e625cef-fc90-4d37-bfc0-a782607f2188"
+        fillColor="#c6d8fa"
+        content="Training and education"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="12"
+          y="132"
+          width="98"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="d9fd2ea3-96c2-4173-9e6a-a99c6dc95006"
+        fillColor="#eec8fb"
+        content="Assets"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="12"
+          y="216"
+          width="98"
+          height="63"/>
+    </children>
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
@@ -73,6 +151,58 @@
         y="12"
         width="229"
         height="577"/>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="e51ad3f7-171e-47be-96a1-7aa567815746"
+        fillColor="#ffff95"
+        content="Fun for kids"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="12"
+          y="60"
+          width="97"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="da9b20d3-34b4-4de4-9a9a-e3d968547fc9"
+        fillColor="#ffff95"
+        content="Kids social skilling"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="120"
+          y="60"
+          width="98"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="3b072b93-ecdd-4adb-a153-fd21e9fb4854"
+        fillColor="#d5ff95"
+        content="Parent education"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="12"
+          y="144"
+          width="98"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="59412c1b-18f9-4fb8-8753-e09b727f1c17"
+        fillColor="#d5ff95"
+        content="Parent socialising"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="120"
+          y="144"
+          width="98"
+          height="63"/>
+    </children>
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
@@ -107,6 +237,71 @@
         y="300"
         width="229"
         height="289"/>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="e3d28d3c-d855-47e2-988a-b0e98510594c"
+        fillColor="#d5ff95"
+        content="Email"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="12"
+          y="48"
+          width="97"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="14e00f1f-b62b-4cce-9d76-7067a1708fb3"
+        fillColor="#d5ff95"
+        content="Web site"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="120"
+          y="48"
+          width="97"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="9910cd58-3a43-49ca-a133-59a4d905bba5"
+        fillColor="#d5ff95"
+        content="Mobile App"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="12"
+          y="132"
+          width="97"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="ba6350a3-906b-4386-a038-d97401eed3fc"
+        fillColor="#d5ff95"
+        content="Facilitator"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="120"
+          y="132"
+          width="97"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="22a8830e-2140-4341-881d-955cdcb4435f"
+        fillColor="#d5ff95"
+        content="Facebook"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="12"
+          y="216"
+          width="97"
+          height="63"/>
+    </children>
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
@@ -124,6 +319,84 @@
         y="12"
         width="229"
         height="577"/>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="7b482ed5-7689-4458-8200-abc005395fce"
+        fillColor="#d5ff95"
+        content="Parent couple"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="12"
+          y="60"
+          width="94"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="1365f551-027d-4534-aa73-5bac3b253360"
+        fillColor="#d5ff95"
+        content="Single parent"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="120"
+          y="60"
+          width="94"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="11c585c2-1ae0-43c0-b2fd-a7177ce112ca"
+        fillColor="#d5ff95"
+        content="New parent"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="12"
+          y="144"
+          width="94"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="25c34562-fdaa-41be-bfeb-c4d616c9f791"
+        fillColor="#d5ff95"
+        content="Full time employed"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="12"
+          y="228"
+          width="94"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="aaab545f-1377-4f8e-9909-a5b6dda63177"
+        fillColor="#d5ff95"
+        content="Part time employed"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="120"
+          y="228"
+          width="94"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="2509f6a9-9cbc-4ace-9dc7-804f62c97c7a"
+        fillColor="#d5ff95"
+        content="Established parent"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="120"
+          y="144"
+          width="94"
+          height="63"/>
+    </children>
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
@@ -141,6 +414,32 @@
         y="588"
         width="570"
         height="181"/>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="8a974269-be8f-4f27-b82b-7d1a61ffdc08"
+        fillColor="#c6f9f7"
+        content="Staff"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="12"
+          y="36"
+          width="97"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="f5fbe748-e653-4e66-908e-cc15b6622232"
+        fillColor="#c6f9f7"
+        content="Facilitators"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="12"
+          y="108"
+          width="97"
+          height="63"/>
+    </children>
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
@@ -159,20 +458,5 @@
         y="588"
         width="572"
         height="181"/>
-  </children>
-  <children
-      xsi:type="canvas:CanvasModelSticky"
-      id="_DLEwuh6GEeirhemrp29ZQA"
-      font="1|Arial|9.75|0|WINDOWS|1|-13|0|0|0|400|0|0|0|0|3|2|1|34|Arial"
-      textAlignment="1"
-      fillColor="#fdf8b9"
-      content="The Business Model Canvas: http://www.businessmodelgeneration.com&#xD;&#xA;This work is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported License. &#xD;&#xA;To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/&#xD;&#xA;"
-      locked="true"
-      borderColor="#c0c0c0">
-    <bounds
-        x="624"
-        y="771"
-        width="529"
-        height="58"/>
   </children>
 </canvas:CanvasModel>

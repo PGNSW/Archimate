@@ -1,0 +1,5 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Call Support"
+    id="5f404e97-7c8e-4f6e-9d94-bea94f3d6481"
+    documentation="A person who is first point-of-contact for support issues&#xD;&#xA;Responsibilities:&#xD;&#xA;1. Triages customer issues&#xD;&#xA;2. Resolves or delegates resolution&#xD;&#xA;3. Closes issue once resolved"/>
