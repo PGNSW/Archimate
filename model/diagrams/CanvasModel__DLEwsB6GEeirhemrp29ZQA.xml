@@ -203,6 +203,19 @@
           width="98"
           height="63"/>
     </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="5d2ff7af-bbfd-44d1-9bef-7b20dc096434"
+        fillColor="#d5ff95"
+        content="Strengthen cfc wellbeing"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="12"
+          y="228"
+          width="97"
+          height="63"/>
+    </children>
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
