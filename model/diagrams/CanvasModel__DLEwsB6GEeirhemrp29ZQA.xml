@@ -121,7 +121,7 @@
         xsi:type="canvas:CanvasModelSticky"
         id="688c7a40-5111-40c3-b68f-9e432a5d38a0"
         fillColor="#c6f9f7"
-        content="Establish PG location"
+        content="Facilitate PG"
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
@@ -150,7 +150,7 @@
     <children
         xsi:type="canvas:CanvasModelSticky"
         id="9b5ed1f6-1d83-4326-a564-ac1b8e6db3a0"
-        fillColor="#c6f9f7"
+        fillColor="#80ff00"
         content="Facilitor"
         borderColor="#C0C0C0"
         textPosition="1">
@@ -163,7 +163,7 @@
     <children
         xsi:type="canvas:CanvasModelSticky"
         id="5e625cef-fc90-4d37-bfc0-a782607f2188"
-        fillColor="#c6d8fa"
+        fillColor="#80ff00"
         content="Training and education"
         borderColor="#C0C0C0"
         textPosition="1">
@@ -176,7 +176,7 @@
     <children
         xsi:type="canvas:CanvasModelSticky"
         id="d9fd2ea3-96c2-4173-9e6a-a99c6dc95006"
-        fillColor="#eec8fb"
+        fillColor="#80ff00"
         content="Assets"
         notes="KL - Talk to Tracey, does the toys belong to PGNSW? or individual playgroup ? "
         borderColor="#C0C0C0"
@@ -190,7 +190,7 @@
     <children
         xsi:type="canvas:CanvasModelSticky"
         id="aed065fb-7533-4594-a36d-aaf987aebbff"
-        fillColor="#ffa093"
+        fillColor="#80ff00"
         content="Pro bono Services"
         borderColor="#C0C0C0"
         textPosition="1">
@@ -203,7 +203,7 @@
     <children
         xsi:type="canvas:CanvasModelSticky"
         id="e3da392b-3d06-4bb7-a37f-21af95c6c391"
-        fillColor="#c6f9f7"
+        fillColor="#80ff00"
         content="Volunteer"
         borderColor="#C0C0C0"
         textPosition="1">
@@ -216,7 +216,7 @@
     <children
         xsi:type="canvas:CanvasModelSticky"
         id="2e5e989a-b108-43ef-87eb-cf1b93080944"
-        fillColor="#eec8fb"
+        fillColor="#80ff00"
         content="Customer Analytics"
         borderColor="#C0C0C0"
         textPosition="1">
@@ -325,6 +325,59 @@
         y="12"
         width="229"
         height="289"/>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="1a4aa524-207d-467a-97bf-f52872ffb5fd"
+        fillColor="#c6f9f7"
+        content="Personal Assistance"
+        notes="Customer Relationships: To ensure the survival and success of any businesses, companies must identify the type of relationship they want to create with their customer segments. Various forms of customer relationships include:&#xD;&#xA;Personal Assistance: Assistance in a form of employee-customer interaction. Such assistance is performed either during sales, after sales, and/or both.&#xD;&#xA;Dedicated Personal Assistance: The most intimate and hands on personal assistance where a sales representative is assigned to handle all the needs and questions of a special set of clients.&#xD;&#xA;Self Service: The type of relationship that translates from the indirect interaction between the company and the clients. Here, an organization provides the tools needed for the customers to serve themselves easily and effectively.&#xD;&#xA;Automated Services: A system similar to self-service but more personalized as it has the ability to identify individual customers and his/her preferences. An example of this would be Amazon.com making book suggestion based on the characteristics of the previous book purchased.&#xD;&#xA;Communities: Creating a community allows for a direct interaction among different clients and the company. The community platform produces a scenario where knowledge can be shared and problems are solved between different clients.&#xD;&#xA;Co-creation: A personal relationship is created through the customer's direct input in the final outcome of the company's products/services."
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="30"
+          y="73"
+          width="75"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="f1848db4-62eb-4245-a2d6-4f07a7aa1bba"
+        fillColor="#c6f9f7"
+        content="Self Service"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="30"
+          y="144"
+          width="75"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="1c3305c6-3cbe-4c32-959b-ab78f96babe8"
+        fillColor="#c6f9f7"
+        content="Automated Services"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="116"
+          y="73"
+          width="75"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="779066db-0a84-4169-9e0f-efce305024d3"
+        fillColor="#c6f9f7"
+        content="Communities"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="116"
+          y="144"
+          width="87"
+          height="63"/>
+    </children>
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
@@ -485,13 +538,52 @@
         xsi:type="canvas:CanvasModelSticky"
         id="f5fbe748-e653-4e66-908e-cc15b6622232"
         fillColor="#c6f9f7"
-        content="Facilitators"
+        content="Program"
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
           x="12"
           y="108"
           width="97"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="8b0408e9-e002-438c-8adf-db19a0fdec8a"
+        fillColor="#c6f9f7"
+        content="Partner Payment"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="132"
+          y="36"
+          width="97"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="e308dbd8-8791-475f-babf-c2e48f41edf7"
+        fillColor="#c6f9f7"
+        content="IT"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="132"
+          y="108"
+          width="75"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="3c396a7d-c054-44a2-a88a-e94ca9cb6f8e"
+        fillColor="#c6f9f7"
+        content="Marketing"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="252"
+          y="36"
+          width="75"
           height="63"/>
     </children>
   </children>
