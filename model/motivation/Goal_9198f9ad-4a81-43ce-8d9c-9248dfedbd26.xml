@@ -1,0 +1,5 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Increase Vendor Independence"
+    id="9198f9ad-4a81-43ce-8d9c-9248dfedbd26"
+    documentation="Interchangeable components: only hardware and software that have standards-based interfaces will be selected, so that upgrades or the insertion of new products will result in minimal disruption to the user's environment.&#xD;&#xA;&#xD;&#xA;Non-proprietary specifications: capabilities will be defined in terms of non-proprietary specifications that support full and open competition and are available to any vendor for use in developing commercial products."/>

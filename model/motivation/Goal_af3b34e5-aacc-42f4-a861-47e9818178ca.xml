@@ -1,0 +1,5 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Reduce Lifecycle Costs"
+    id="af3b34e5-aacc-42f4-a861-47e9818178ca"
+    documentation="Reduced duplication: replacement of isolated systems and islands of automation with interconnected open systems will lead to reductions in overlapping functionality, data duplication, and unneeded redundancy because open systems can share data and other resources.&#xD;&#xA;&#xD;&#xA;Reduced software maintenance costs: reductions in the quantity and variety of software used in the organization will lead to reductions in the amount and cost of software maintenance. Use of standard off-the-shelf software will lead to further reductions in costs since vendors of such software distribute their product maintenance costs across a much larger user base.&#xD;&#xA;&#xD;&#xA;Incremental replacement: common interfaces to shared infrastructure components allow for phased replacement or upgrade with minimal operational disturbance.&#xD;&#xA;&#xD;&#xA;Reduced training costs: common systems and consistent Human Computer Interfaces (HCIs) will lead to reduced training costs."/>

@@ -1,0 +1,5 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Improve Security"
+    id="2828207b-e4f6-48a9-ae3c-3a0bb0b303b7"
+    documentation="Consistent security interfaces for applications: consistent security interfaces and procedures will lead to fewer errors when developing applications and increased application portability. Not all applications will need the same suite of security features, but any features used will be consistent across applications.&#xD;&#xA;Consistent security interfaces for users: a common user interface to security features will lead to reduced learning time when moving from system to system.&#xD;&#xA;Security independence: application deployment can use the security policy and mechanisms appropriate to the particular environment if there is good layering in the architecture.&#xD;&#xA;A 25% reduction in calls to the help desk relating to security issues.&#xD;&#xA;A 20% reduction in &quot;false positives&quot; detected in the network (a false positive is an event that appears to be an actionable security event, but in fact is a false alarm)."/>

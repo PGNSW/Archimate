@@ -1,0 +1,5 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Improve Portability and Scalability"
+    id="269cb68b-6d5f-4ecd-bf06-7fda9b53acd5"
+    documentation="Portability: applications that adhere to open systems standards will be portable, leading to increased ease-of-movement across heterogeneous computing platforms. Portable applications can allow sites to upgrade their platforms as technological improvements occur, with minimal impact on operations.&#xD;&#xA;Scalability: applications that conform to the model will be configurable, allowing operation on the full spectrum of platforms required.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;KL - can we support other state's CRM requirements ? "/>
