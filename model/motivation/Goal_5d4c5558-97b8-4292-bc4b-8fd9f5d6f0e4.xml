@@ -2,4 +2,6 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Reduce Risk"
     id="5d4c5558-97b8-4292-bc4b-8fd9f5d6f0e4"
-    documentation="Ease of implementing new processes&#xD;&#xA;Decreased errors introduced into business processes through complex and faulty systems&#xD;&#xA;Decreased real-world safety hazards (including hazards that cause loss of life)"/>
+    documentation="Ease of implementing new processes&#xD;&#xA;Decreased errors introduced into business processes through complex and faulty systems&#xD;&#xA;Decreased real-world safety hazards (including hazards that cause loss of life)&#xD;&#xA;&#xD;&#xA;----------------------------------------------&#xD;&#xA;•&#x9;Enterprise/Strategic risks&#xD;&#xA;•&#x9;Operational risks&#xD;&#xA;•&#x9;WHS Risks&#xD;&#xA;•&#x9;Business Continuity (BCM) Risks&#xD;&#xA;•&#x9;Procurement Risks&#xD;&#xA;&#xD;&#xA;Stakeholder: CEO&#xD;&#xA;">
+  <properties/>
+</archimate:Goal>
