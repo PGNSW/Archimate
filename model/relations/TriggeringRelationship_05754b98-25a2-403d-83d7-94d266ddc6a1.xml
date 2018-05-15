@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Deliver Project"
+    id="05754b98-25a2-403d-83d7-94d266ddc6a1">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_7f629116-51ab-40f5-ad02-dccddb26cdd3.xml#7f629116-51ab-40f5-ad02-dccddb26cdd3"/>
+  <target
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_05592e37-857a-453d-a6ef-3227ebe57631.xml#05592e37-857a-453d-a6ef-3227ebe57631"/>
+</archimate:TriggeringRelationship>

@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Architectrue Direction"
+    id="6b6dedc9-5bbc-4086-951f-1e88ed9979e2">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_0dadb713-525f-4021-9625-908eecf965e2.xml#0dadb713-525f-4021-9625-908eecf965e2"/>
+  <target
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_7560e942-3432-4ed0-a979-84a21a23c9da.xml#7560e942-3432-4ed0-a979-84a21a23c9da"/>
+</archimate:TriggeringRelationship>

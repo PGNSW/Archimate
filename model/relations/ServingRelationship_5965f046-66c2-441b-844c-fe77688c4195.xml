@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Run enterprise"
+    id="5965f046-66c2-441b-844c-fe77688c4195">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_05592e37-857a-453d-a6ef-3227ebe57631.xml#05592e37-857a-453d-a6ef-3227ebe57631"/>
+  <target
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_42787d08-0d4f-4c29-b8ea-24815c4d2ae7.xml#42787d08-0d4f-4c29-b8ea-24815c4d2ae7"/>
+</archimate:ServingRelationship>

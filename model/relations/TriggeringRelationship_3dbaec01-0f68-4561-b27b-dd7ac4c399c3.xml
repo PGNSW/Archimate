@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="project management"
+    id="3dbaec01-0f68-4561-b27b-dd7ac4c399c3">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_7f629116-51ab-40f5-ad02-dccddb26cdd3.xml#7f629116-51ab-40f5-ad02-dccddb26cdd3"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_a0710ab3-4a7a-4f28-a549-4726dad2abdc.xml#a0710ab3-4a7a-4f28-a549-4726dad2abdc"/>
+</archimate:TriggeringRelationship>
