@@ -45,15 +45,6 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="d644ee9f-d884-4ffa-9f6c-602b0b3a6ad1"
-        source="e0b73b8e-3f05-460e-95c1-ada6adbe90f0"
-        target="0eacd137-6469-4d91-b231-af1bbaaaed65">
-      <archimateRelationship
-          xsi:type="archimate:AggregationRelationship"
-          href="AggregationRelationship_2fe2b07a-0431-47e8-ab60-fc00ed86dca8.xml#2fe2b07a-0431-47e8-ab60-fc00ed86dca8"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="61042116-29c7-46bd-ad6d-1d14ce219861"
         source="e0b73b8e-3f05-460e-95c1-ada6adbe90f0"
         target="55fcf54e-7281-4a32-89f7-d0f27aa77ae7">
@@ -62,8 +53,8 @@
           href="CompositionRelationship_b2cbaea1-0150-4b25-a007-a935b8820b85.xml#b2cbaea1-0150-4b25-a007-a935b8820b85"/>
     </sourceConnections>
     <bounds
-        x="36"
-        y="444"
+        x="12"
+        y="372"
         width="601"
         height="193"/>
     <children
@@ -119,19 +110,6 @@
       <archimateElement
           xsi:type="archimate:Capability"
           href="Capability_25841050-5d18-46eb-b304-2624b1c78275.xml#25841050-5d18-46eb-b304-2624b1c78275"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="0eacd137-6469-4d91-b231-af1bbaaaed65"
-        targetConnections="d644ee9f-d884-4ffa-9f6c-602b0b3a6ad1">
-      <bounds
-          x="384"
-          y="108"
-          width="120"
-          height="55"/>
-      <archimateElement
-          xsi:type="archimate:Capability"
-          href="Capability_980ff9fa-9492-4090-aab4-3f96d575a325.xml#980ff9fa-9492-4090-aab4-3f96d575a325"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -208,8 +186,8 @@
           href="CompositionRelationship_7ec39f9c-4ddd-44d6-b031-bb7b574fc611.xml#7ec39f9c-4ddd-44d6-b031-bb7b574fc611"/>
     </sourceConnections>
     <bounds
-        x="36"
-        y="84"
+        x="12"
+        y="12"
         width="601"
         height="193"/>
     <children
@@ -361,8 +339,8 @@
           href="CompositionRelationship_70c713de-b9e9-49be-858f-970d444f63ae.xml#70c713de-b9e9-49be-858f-970d444f63ae"/>
     </sourceConnections>
     <bounds
-        x="36"
-        y="288"
+        x="12"
+        y="216"
         width="601"
         height="145"/>
     <children
